@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Aube33&color=e4eef3&style=flat)
+![](https://komarev.com/ghpvc/?username=Aube33&color=163350&style=flat&label=Visits)
 
 <!--
 - 🔭 I’m currently working on ...
