@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 <div align="center">
-  ![GitHub](https://img.shields.io/github/followers/aube33?logo=github&style=for-the-badge)
+  ![GitHub](https://img.shields.io/github/followers/Ileriayo?logo=github&style=for-the-badge)
 </div>
 
 <h3 align="left">Connect with me:</h3>
