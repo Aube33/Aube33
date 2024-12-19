@@ -2,9 +2,9 @@
 
 ## Hi there 👋
 
-<center>
+<div align="center">
   ![](https://komarev.com/ghpvc/?username=Aube33&color=163350&style=flat&label=Visits)
-</center>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
