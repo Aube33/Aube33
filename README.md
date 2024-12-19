@@ -3,11 +3,12 @@
 ## Hi there 👋
 
 <div align="center">
-  <a href="">![visits](https://komarev.com/ghpvc/?username=Aube33&color=163350&style=flat&label=Visits)</a>
-  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
-  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
-</div>
 
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UCvE1503oOurDjrFw2Mrt-Og?color=%09%23FF0000&logo=youtube&style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/iftekhariasif?label=Iftekhar%20I%20Asif&logo=twitter&style=for-the-badge)
+![GitHub](https://img.shields.io/github/followers/IftekharIAsif?logo=github&style=for-the-badge)
+
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="your link" target="blank" style="color:white;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
