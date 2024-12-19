@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 <div align="center">
-  ![Visits](https://komarev.com/ghpvc/?username=Aube33&color=163350&style=for-the-badge&label=Visits)
+
   ![Twitter](https://img.shields.io/twitter/follow/iftekhariasif?label=Iftekhar%20I%20Asif&logo=twitter&style=for-the-badge)
   ![GitHub](https://img.shields.io/github/followers/IftekharIAsif?logo=github&style=for-the-badge)
 </div>
