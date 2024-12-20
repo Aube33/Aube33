@@ -69,6 +69,6 @@
         <div style="display: flex; flex-direction: column; justify-content: space-between;">
             <p>Play Pong, with colored pad in python<br>
             </p>
-            <a href="https://github.com/Aube33/Asteroids/" target="_blank">Link to project</a>
+            <a href="https://github.com/Aube33/PongPython" target="_blank">Link to project</a>
         </div>
     </div>
