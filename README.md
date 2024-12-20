@@ -51,3 +51,15 @@
             <a href="https://aube33.github.io" target="_blank">Link to project</a>
         </div>
     </div>
+
+- ### **Asteroids II**
+    <div style="display: flex; align-items: start;">
+        <img src="https://cdn.discordapp.com/attachments/629320490741137422/1319577663009980487/image.png?ex=676677f7&is=67652677&hm=187e9170830c9ada3bdaff5c32c495c6d5015aa836304e8c3850f283fb2e62af&" width=128 style="border-radius: 20px; margin-right: 20px;">
+        <div style="display: flex; flex-direction: column; justify-content: space-between;">
+            <p>Play Asteroids, with less good collisions, a fuel tank<br>
+            circular asteroids and coded with python.<br>
+            </p>
+            <a href="https://github.com/Aube33/Asteroids/" target="_blank">Link to project</a>
+        </div>
+    </div>
+
