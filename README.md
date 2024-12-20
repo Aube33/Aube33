@@ -6,7 +6,7 @@
 ![GitHub](https://img.shields.io/github/followers/Aube33?logo=github&style=for-the-badge&color=489eb6)
 </div>
 
-## **TECHNOLOGIES**
+## ⚙️ **TECHNOLOGIES**
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -24,19 +24,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-## **NETWORKS**
+## 🔗 **NETWORKS**
 <div style="display: flex; align-items: center; justify-content: start;">
     <a href="https://www.root-me.org/Aube-643003">
-        <div style="padding: 5px; background-color: white;">
-            <img src="https://media.licdn.com/dms/image/v2/D560BAQHuDFDdqFIuNg/company-logo_200_200/company-logo_200_200/0/1704489634414/root_me_logo?e=2147483647&v=beta&t=TuJ42pi2_tL-vS8De0n7wLrdVlCOtnIe-rvmhdWOCR0" width=80>
-        </div>
+        <img src="https://discord.do/wp-content/uploads/2023/08/Root-Me.jpg" width=80 style="border-radius: 20px;">
     </a>
 </div>
 
-## **PROJECTS**
-
-
-- ### **MATCHER**
+## 🛠️ **PROJECTS**
+ - ### **MATCHER**
     <div style="display: flex; align-items: start;">
         <img src="https://matcher-app.fr/images/icon.png" width=128 style="border-radius: 20px; margin-right: 20px;">
         <div style="display: flex; flex-direction: column; justify-content: space-between;">
