@@ -26,7 +26,7 @@
 
 ## 🔗 **NETWORKS**
 <div style="display: flex; align-items: center; justify-content: start;">
-    <a href="https://www.root-me.org/Aube-643003">
+    <a href="https://www.root-me.org/Aube-643003" target="_blank">
         <img src="https://discord.do/wp-content/uploads/2023/08/Root-Me.jpg" width=80 style="border-radius: 20px;">
     </a>
 </div>
