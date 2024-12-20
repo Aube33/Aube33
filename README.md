@@ -26,11 +26,11 @@
 
 ## **NETWORKS**
 <div style="display: flex; align-items: center; justify-content: start;">
-    <div style="width: fit-content; background-color: #FFFFFF; border-radius: 20px; padding: 0 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;">
-        <a href="https://www.root-me.org/Aube-643003">
-            <img src="https://www.root-me.org/IMG/logo/siteon0.svg" width=80>
-        </a>
-    </div>
+    <a href="https://www.root-me.org/Aube-643003">
+        <div style="padding: 5px; background-color: white;">
+            <img src="https://media.licdn.com/dms/image/v2/D560BAQHuDFDdqFIuNg/company-logo_200_200/company-logo_200_200/0/1704489634414/root_me_logo?e=2147483647&v=beta&t=TuJ42pi2_tL-vS8De0n7wLrdVlCOtnIe-rvmhdWOCR0" width=80>
+        </div>
+    </a>
 </div>
 
 ## **PROJECTS**
