@@ -59,7 +59,7 @@
 
 - ### **Asteroids II**
     <div style="display: flex; align-items: start;">
-        <img src="https://github.com/Aube33/PongPython/blob/main/githubRessource/pongdemo.gif" width=128 style="border-radius: 20px; margin-right: 20px;">
+        <img src="https://github.com/Aube33/Asteroids/blob/main/githubRessource/asteroidsdemo.gif" width=170 style="border-radius: 20px; margin-right: 20px;">
         <div style="display: flex; flex-direction: column; justify-content: space-between;">
             <p>Play Asteroids, with less good collisions, a fuel tank<br>
             circular asteroids and coded with python.<br>
@@ -70,7 +70,7 @@
 
 - ### **Pong II**
     <div style="display: flex; align-items: start;">
-        <img src="https://cdn.discordapp.com/attachments/629320490741137422/1319580858528694323/image.png?ex=67667af1&is=67652971&hm=f6f24c1eb4d7a3242bd32b60684d48dc07ecfb92991f053744dc40338f36b98b&" width=128 style="border-radius: 20px; margin-right: 20px;">
+        <img src="https://github.com/Aube33/PongPython/blob/main/githubRessource/pongdemo.gif" width=170 style="border-radius: 20px; margin-right: 20px;">
         <div style="display: flex; flex-direction: column; justify-content: space-between;">
             <p>Play Pong, with colored pad in python<br>
             </p>
