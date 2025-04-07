@@ -47,7 +47,7 @@
 
 - ### **Covergrid Generator**
     <div style="display: flex; align-items: start;">
-        <img src="https://aube33.github.io/img/favicon.png" width=128 style="border-radius: 20px; margin-right: 20px;">
+        <img src="https://aube33.github.io/CoverGrid/illustrations/gridcover_desktop.png" width=128 style="border-radius: 20px; margin-right: 20px;">
         <div style="display: flex; flex-direction: column; justify-content: space-between;">
             <p>Covergrid generator allows you to create wallpapers<br>
             from your favorite albums, manually or via a Spotify<br>
