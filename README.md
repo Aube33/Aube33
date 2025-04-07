@@ -53,7 +53,7 @@
             from your favorite albums, manually or via a Spotify<br>
             or Deezer playlist (Currently in beta).
             </p>
-            <a href="https://aube33.github.io" target="_blank">Link to project</a>
+            <a href="https://aube33.github.io/CoverGrid" target="_blank">Link to project</a>
         </div>
     </div>
 
