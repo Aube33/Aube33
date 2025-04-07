@@ -36,7 +36,7 @@
     <div style="display: flex; align-items: start;">
         <img src="https://matcher-app.fr/images/icon.png" width=128 style="border-radius: 20px; margin-right: 20px;">
         <div style="display: flex; flex-direction: column; justify-content: space-between;">
-            <p>Matcher is a completely free dating app, with<br>
+            <p>Matcher is a completely free open source dating app, with<br>
             no ads or data collection, allowing you to make<br>
             romantic, friendly, or other types of connections<br>
             without compromise on your data.
