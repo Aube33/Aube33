@@ -41,8 +41,6 @@
             romantic, friendly, or other types of connections<br>
             without compromise on your data.
             </p>
-            <a href="https://matcher-app.fr" target="_blank">Link to project</a>
-            |
             <a href="https://github.com/Aube33/Matcher" target="_blank">Link to Repo</a>
         </div>
     </div>
