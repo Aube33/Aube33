@@ -32,6 +32,17 @@
 </div>
 
 ## 🛠️ **PROJECTS**
+ - ### **BabyRopper**
+    <div style="display: flex; align-items: start;">
+        <div style="display: flex; flex-direction: column; justify-content: space-between;">
+            <p>
+            BabyRopper is a small lightweight tool designed<br>
+            to discover ROP (Return Oriented Programming) gadgets<br>
+            in ELF binaries for both x86 and x86_64 architectures.
+            </p>
+            <a href="https://github.com/Aube33/BabyRopper" target="_blank">Link to Repo</a>
+        </div>
+    </div>
  - ### **MATCHER**
     <div style="display: flex; align-items: start;">
         <img src="./icons/icon-matcher.png" width=128 style="border-radius: 20px; margin-right: 20px;">
