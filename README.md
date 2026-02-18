@@ -40,7 +40,7 @@
             to discover ROP (Return Oriented Programming) gadgets<br>
             in ELF binaries for both x86 and x86_64 architectures.
             </p>
-            <a href="https://github.com/Aube33/BabyRopper" target="_blank">Link to Repo</a>
+            <a href="https://github.com/Aube33/BabyRopper" target="_blank">Link to repo</a>
         </div>
     </div>
  - ### **MATCHER**
@@ -52,7 +52,7 @@
             romantic, friendly, or other types of connections<br>
             without compromise on your data.
             </p>
-            <a href="https://github.com/Aube33/Matcher" target="_blank">Link to Repo</a>
+            <a href="https://github.com/Aube33/Matcher" target="_blank">Link to repo</a>
         </div>
     </div>
 
@@ -72,10 +72,10 @@
     <div style="display: flex; align-items: start;">
         <img src="https://github.com/Aube33/Asteroids/blob/main/githubRessource/asteroidsdemo.gif" width=170 style="border-radius: 20px; margin-right: 20px;">
         <div style="display: flex; flex-direction: column; justify-content: space-between;">
-            <p>Play Asteroids, with less good collisions, a fuel tank<br>
+            <p>Play Asteroids, with less efficient collisions, a fuel tank,<br>
             circular asteroids and coded with python.<br>
             </p>
-            <a href="https://github.com/Aube33/Asteroids/" target="_blank">Link to project</a>
+            <a href="https://github.com/Aube33/Asteroids/" target="_blank">Link to repo</a>
         </div>
     </div>
 
@@ -85,6 +85,6 @@
         <div style="display: flex; flex-direction: column; justify-content: space-between;">
             <p>Play Pong, with colored pad in python<br>
             </p>
-            <a href="https://github.com/Aube33/PongPython" target="_blank">Link to project</a>
+            <a href="https://github.com/Aube33/PongPython" target="_blank">Link to repo</a>
         </div>
     </div>
